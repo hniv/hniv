@@ -3,15 +3,6 @@
 
 **hniv/hniv** is a ✨ _special_ ✨ repository.
 
-- 🔭 I’m currently working on: 
-- 🌱 I’m currently learning: 
-- 👯 I’m looking to collaborate on: 
-- 🤔 I’m looking for help with: 
-- 💬 Ask me about: 
-- 📫 How to reach me:
-- 😄 Pronouns:
-- ⚡ Fun fact:
-
 
 # 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100051093860697) 
