@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-
-**hniv/hniv** is a ✨ _special_ ✨ repository.
+I'm Vinh 👋
 
 
 # 🌐Socials
